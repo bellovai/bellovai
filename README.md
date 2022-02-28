@@ -5,10 +5,6 @@ I'm studying Mechanical Engineering at [ETH Zurich](https://ethz.ch/de.html). Pa
 🔭 I’m currently working on my master's thesis as well as private projects.<br>
 
 ---
-
-<details>
-  <summary>📦 Packages on PyPi</summary><br>
-</details>
   
 <details>
   <summary>📫 How to reach me</summary><br>
