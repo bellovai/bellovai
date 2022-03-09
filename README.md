@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Gian-Andrea 😄
 
-I'm studying Mechanical Engineering at [ETH Zurich](https://ethz.ch/de.html). Part-time I work as a consulting intern at [AWK Group AG](https://www.awk.ch/). I'm interested in Data Science, Machine Learning and coding in general.
+I'm studying Mechanical Engineering at [ETH Zurich](https://ethz.ch/de.html). Part-time I'm employed as working student in consulting at [AWK Group AG](https://www.awk.ch/). I'm interested in Data Science, Machine Learning and coding in general.
 
-🔭 I’m currently working on my master's thesis as well as private projects.<br>
+🔭 Currently, I'm working on my master's thesis as well as private projects.<br>
 
 ---
   
