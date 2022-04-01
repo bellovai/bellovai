@@ -1,0 +1,29 @@
+Command                                       Meaning
+
+git --version                                 Show installed git version
+git config --global user.name 'name'          Configure username
+git config --global user.email 'email'        Configure email
+git config user.name                          Show configured username
+git config user.email                         Show configured email
+
+git clone 'github repo link'                  Clones repo to current directory
+cd 'directory'                                Go to 'directory'
+cd ..                                         Leave one directory
+dir                                           Show all directories
+cd                                            Show content of directory
+mkdir 'directory'                             Create directory
+rmdir 'directory'                             Remove directory
+touch 'file.type'                             Create new file
+rm 'file.type'                                Remove file
+git init                                      Create repo
+
+git branch                                    Show current branch
+git branch -r                                 Show all branches
+git branch -vv                                Show tracking branches
+git checkout 'branch'                         Go to 'branch'
+git status                                    Check which files are changed
+git add 'file'                                Add 'file' to staging area
+git add .                                     Add all files to staging area
+git commit -m "commit message"                Commit change with message
+git push                                      Push change
+git push -u origin 'branch'                   Set upstream branch
