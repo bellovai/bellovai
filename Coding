@@ -1,16 +1,22 @@
 Command                                       Meaning
 
-printenv                                      Check environmental variables  
-
-
+nano .zshrc                                   Open nano editor
+source .zshrc                                 Update changes from nano editor
+printenv                                      Show environmental variables  
 dir                                           Show all directories
-cd                                            Show content of directory
+lsl                                           Show content of directory
 cd <directory>                                Go to <directory>
 cd ..                                         Leave one directory
 mkdir <directory>                             Create <directory>
 rmdir <directory>                             Remove <directory>
 touch <file.type>                             Create <file.type>
 rm <file>                                     Remove <file>
+
+python / python3 / p3                         Possible python commands
+p3 --version                                  Show python version
+p3 -h                                         Help for python
+pip3 list                                     Show packages installed via pip3
+brew list -l                                  Show packages installed via brew
 
 git --version                                 Show installed git version
 git config --global user.name <name>          Configure username
