@@ -1,20 +1,22 @@
 Command                                       Meaning
 
-git --version                                 Show installed git version
-git config --global user.name <name>          Configure username
-git config --global user.email <email>        Configure email
-git config user.name                          Show configured username
-git config user.email                         Show configured email
+printenv                                      Check environmental variables  
 
-cd <directory>                                Go to <directory>
-cd ..                                         Leave one directory
+
 dir                                           Show all directories
 cd                                            Show content of directory
+cd <directory>                                Go to <directory>
+cd ..                                         Leave one directory
 mkdir <directory>                             Create <directory>
 rmdir <directory>                             Remove <directory>
 touch <file.type>                             Create <file.type>
 rm <file>                                     Remove <file>
 
+git --version                                 Show installed git version
+git config --global user.name <name>          Configure username
+git config --global user.email <email>        Configure email
+git config user.name                          Show configured username
+git config user.email                         Show configured email
 git init                                      Create repo in current directory
 git clone <github repo link>                  Clone repo to current directory
 git pull                                      Pull repo from current directory
