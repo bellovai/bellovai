@@ -36,3 +36,10 @@ git add .                                     Add all files to staging area
 git commit -m <"commit message">              Commit change with <"commit message">
 git push                                      Push commit
 git push -u origin <branch>                   Set upstream branch
+
+
+
+Setup
+https://github.com/ohmyzsh/ohmyzsh
+https://github.com/zsh-users/zsh-autosuggestions
+alias in .zshrc file
